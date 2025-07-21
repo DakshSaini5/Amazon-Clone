@@ -21,7 +21,7 @@
 }
 
 .logo {
-    background-image: url(amazon\ logo.png);
+    background-image: url(Photos/amazon\ logo.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -230,9 +230,7 @@
     display: flex;
     color: white;
     align-items: center;
-    /* justify-content: space-evenly; */
     padding-left: 19px;
-
 }
 
 .panel-ops p {
@@ -258,7 +256,7 @@
 }
 
 .hero-section {
-    background-image: url(Big\ image.jpg);
+    background-image: url(Photos/Big\ image.jpg);
     height: 380px;
     background-size: cover;
     display: flex;
@@ -325,6 +323,38 @@
 
 .box-content p {
     color: #007185;
+}
+
+.electronics {
+    background-image: url('Photos/electronics.jpeg');
+}
+
+.health {
+    background-image: url('Photos/Health&Personal.jpg');
+}
+
+.gaming {
+    background-image: url('Photos/gaming.jpg');
+}
+
+.fashion {
+    background-image: url('Photos/Fashion.jpeg');
+}
+
+.home-essentials {
+    background-image: url('Photos/Health&Personal.jpg');
+}
+
+.home-arrivals {
+    background-image: url('Photos/New home arrivals.jpg');
+}
+
+.refresh-space {
+    background-image: url('Photos/Refresh.jpg');
+}
+
+.toys {
+    background-image: url('Photos/toys.jpg');
 }
 
 
